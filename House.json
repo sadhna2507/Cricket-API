@@ -8,7 +8,7 @@
     "bathroom": 2,
     "area": "6x7",
     "date": "7/12/2022",
-    "Property-type": "Apartment",
+    "PropertyType": "Apartment",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsnvObE3Slo5N5HSLuC_h5XAqNTCnjL6dzaQ&usqp=CAU"
   },
   {
@@ -20,7 +20,7 @@
     "bathroom": 2,
     "area": "6x7",
     "date": "20/12/2022",
-    "Property-type": "Villa",
+    "PropertyType": "Villa",
     "image": "https://media.istockphoto.com/id/506903162/photo/luxurious-villa-with-pool.jpg?s=612x612&w=0&k=20&c=Ek2P0DQ9nHQero4m9mdDyCVMVq3TLnXigxNPcZbgX2E="
   },
   {
@@ -32,7 +32,7 @@
     "bathroom": 2,
     "area": "6x7",
     "date": "17/12/2022",
-    "Property-type": "House",
+    "PropertyType": "House",
     "image": "https://thumbor.forbes.com/thumbor/fit-in/900x510/https://www.forbes.com/home-improvement/wp-content/uploads/2022/07/download-23.jpg"
   },
   {
@@ -44,7 +44,7 @@
     "bathroom": 1,
     "area": "6x7",
     "date": "25/12/2022",
-    "Property-type": "House",
+    "PropertyType": "House",
     "image": "https://img.onmanorama.com/content/dam/mm/en/lifestyle/decor/images/2022/1/27/4-cent-trivandrum-home-view.jpg"
   },
   {
@@ -56,7 +56,7 @@
     "bathroom": 2,
     "area": "6x7",
     "date": "5/12/2022",
-    "Property-type": "Villa",
+    "PropertyType": "Villa",
     "image": "https://www.sunestates.com/data/images/boutique-villas-in-goa-india/_DSC9434.jpg"
   },
   {
@@ -68,7 +68,7 @@
     "bathroom": 4,
     "area": "6x7",
     "date": "9/12/2022",
-    "Property-type": "Villa",
+    "PropertyType": "Villa",
     "image": "https://r1imghtlak.mmtcdn.com/450cc568e65111eca6ab0a58a9feac02.jpg?&output-quality=75&downsize=910:612&crop=910:612;0,15&output-format=jpg"
   },
   {
@@ -80,7 +80,7 @@
     "bathroom": 3,
     "area": "6x7",
     "date": "14/12/2022",
-    "Property-type": "Apartment",
+    "PropertyType": "Apartment",
     "image": "http://www.apartments.com/images/default-source/2019-naa/parkline-apartment-in-miami-fla2dc2731-e6f2-4dca-89c5-38245ccacea1.tmb-featuredim.jpg?sfvrsn=55bc41ed_1"
   },
   {
@@ -92,7 +92,7 @@
     "bathroom": 3,
     "area": "6x7",
     "date": "19/12/2022",
-    "Property-type": "Apartment",
+    "PropertyType": "Apartment",
     "image": "http://www.apartments.com/images/default-source/2019-naa/parkline-apartment-in-miami-fla2dc2731-e6f2-4dca-89c5-38245ccacea1.tmb-featuredim.jpg?sfvrsn=55bc41ed_1"
   },
   {
@@ -104,7 +104,7 @@
     "bathroom": 1,
     "area": "6x7",
     "date": "16/12/2022",
-    "Property-type": "House",
+    "PropertyType": "House",
     "image": "https://www.buildofy.com/blog/content/images/2022/06/_DSC9610-Edited_-min.jpg"
   },
   {
@@ -116,7 +116,7 @@
     "bathroom": 2,
     "area": "6x7",
     "date": "28/12/2022",
-    "Property-type": "House",
+    "PropertyType": "House",
     "image": "https://img.staticmb.com/mbcontent//images/uploads/2022/5/modern-kerala-house-design.jpg"
   },
   {
@@ -128,7 +128,7 @@
     "bathroom": 2,
     "area": "6x7",
     "date": "6/12/2022",
-    "Property-type": "Apartment",
+    "PropertyType": "Apartment",
     "image": "https://pix10.agoda.net/hotelImages/298/2987813/2987813_17101807450057913663.jpg?ca=6&ce=1&s=1024x768"
   },
   {
@@ -140,7 +140,7 @@
     "bathroom": 2,
     "area": "6x7",
     "date": "12/12/2022",
-    "Property-type": "Apartment",
+    "PropertyType": "Apartment",
     "image": "https://pix10.agoda.net/hotelImages/298/2987813/2987813_17101807450057913663.jpg?ca=6&ce=1&s=1024x768"
   },
   {
@@ -152,7 +152,7 @@
     "bathroom": 2,
     "area": "6x7",
     "date": "23/12/2022",
-    "Property-type": "House",
+    "PropertyType": "House",
     "image": "https://wpmedia.roomsketcher.com/content/uploads/2022/01/06154409/Modern-house-avi-werd-unsplash.jpg"
   },
   {
@@ -164,7 +164,7 @@
     "bathroom": 3,
     "area": "6x7",
     "date": "14/12/2022",
-    "Property-type": "Villa",
+    "PropertyType": "Villa",
     "image": "https://www.luxuryvillasstay.com/wp-content/uploads/2020/09/lux1.jpg"
   },
   {
@@ -176,7 +176,7 @@
     "bathroom": 3,
     "area": "6x7",
     "date": "10/12/2022",
-    "Property-type": "Villa",
+    "PropertyType": "Villa",
     "image": "https://newprojects.99acres.com/projects/sarva_group/sarva_villa_126/images/1lo5tugp.jpg"
   },
   {
@@ -188,7 +188,7 @@
     "bathroom": 1,
     "area": "6x7",
     "date": "17/12/2022",
-    "Property-type": "Apartment",
+    "PropertyType": "Apartment",
     "image": "https://res.cloudinary.com/apartmentlist/image/upload/f_auto,q_auto,t_web-base/ec511e2ebb2d866d1789a18602eef259.jpg"
   },
   {
@@ -200,7 +200,7 @@
     "bathroom": 2,
     "area": "6x7",
     "date": "27/12/2022",
-    "Property-type": "House",
+    "PropertyType": "House",
     "image": "https://markstewart.com/wp-content/uploads/2021/04/1_SB4-Front-View.jpg"
   },
   {
@@ -212,7 +212,7 @@
     "bathroom": 1,
     "area": "6x7",
     "date": "30/12/2022",
-    "Property-type": "House",
+    "PropertyType": "House",
     "image": "https://carlislehomes.com.au/static/images/hal/CARL607554_Matisse33_003_2.jpg"
   },
   {
@@ -224,7 +224,7 @@
     "bathroom": 2,
     "area": "6x7",
     "date": "16/12/2022",
-    "Property-type": "Apartment",
+    "PropertyType": "Apartment",
     "image": "https://www.irvinecompany.com/images/apartments-1-1080x720.webp"
   },
   {
