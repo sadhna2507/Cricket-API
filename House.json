@@ -93,7 +93,7 @@
     "area": "6x7",
     "date": "19/12/2022",
     "PropertyType": "Apartment",
-    "image": "http://www.apartments.com/images/default-source/2019-naa/parkline-apartment-in-miami-fla2dc2731-e6f2-4dca-89c5-38245ccacea1.tmb-featuredim.jpg?sfvrsn=55bc41ed_1"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRORZ8ILSxnmtVrQysLO9sacKBFl8pFjcVzPg&usqp=CAU"
   },
   {
     "id": "9",
@@ -134,14 +134,14 @@
   {
     "id": "12",
     "name": "City Dwellers",
-    "price": "$7,000",
+    "price": "$6,600",
     "Location": "Lajpat, Delhi",
     "bed": 4,
     "bathroom": 2,
     "area": "6x7",
     "date": "12/12/2022",
     "PropertyType": "Apartment",
-    "image": "https://pix10.agoda.net/hotelImages/298/2987813/2987813_17101807450057913663.jpg?ca=6&ce=1&s=1024x768"
+    "image": "https://www.decorilla.com/online-decorating/wp-content/uploads/2020/08/Modern-Apartment-Decor-.jpg"
   },
   {
     "id": "13",
@@ -238,5 +238,17 @@
     "date": "22/12/2022",
     "Property-type": "Villa",
     "image": "https://www.casagrand.co.in/wp-content/uploads/2022/04/Villa-Front.jpg"
+  },
+  {
+    "id": "21",
+    "name": "Peak Living",
+    "price": "$4,350",
+    "Location": "Sunfield, Noida",
+    "bed": 4,
+    "bathroom": 2,
+    "area": "6x7",
+    "date": "13/12/2022",
+    "Property-type": "House",
+    "image": "https://www.mcdonaldjoneshomes.com.au/sites/default/files/styles/image_gallery/public/daytona-new-house-designs.jpg?itok=Bb9xYGdE"
   }
 ]
