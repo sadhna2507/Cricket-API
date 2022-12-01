@@ -236,7 +236,7 @@
     "bathroom": 3,
     "area": "6x7",
     "date": "22/12/2022",
-    "Property-type": "Villa",
+    "PropertyType": "Villa",
     "image": "https://www.casagrand.co.in/wp-content/uploads/2022/04/Villa-Front.jpg"
   },
   {
@@ -248,7 +248,7 @@
     "bathroom": 2,
     "area": "6x7",
     "date": "13/12/2022",
-    "Property-type": "House",
+    "PropertyType": "House",
     "image": "https://www.mcdonaldjoneshomes.com.au/sites/default/files/styles/image_gallery/public/daytona-new-house-designs.jpg?itok=Bb9xYGdE"
   }
 ]
