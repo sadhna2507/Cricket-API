@@ -26,7 +26,7 @@
   {
     "id": "3",
     "name": "Mannat",
-    "price": "$4,500",
+    "price": "$2,500",
     "Location": "jankipuram ,Delhi",
     "bed": 4,
     "bathroom": 2,
@@ -49,8 +49,8 @@
   },
   {
     "id": "5",
-    "name": "Diamond villa",
-    "price": "$5,760",
+    "name": "Diamond Villa",
+    "price": "$2,760",
     "Location": "Dharavai road ,Delhi",
     "bed": 6,
     "bathroom": 2,
@@ -62,7 +62,7 @@
   {
     "id": "6",
     "name": "Heaven Villa",
-    "price": "$6,500",
+    "price": "$2,500",
     "Location": "Maharana road ,Noida",
     "bed": 7,
     "bathroom": 4,
@@ -74,7 +74,7 @@
   {
     "id": "7",
     "name": "Pearl Apartments",
-    "price": "$3,800",
+    "price": "$2,800",
     "Location": "Andheri  ,Delhi",
     "bed": 6,
     "bathroom": 3,
@@ -86,7 +86,7 @@
   {
     "id": "8",
     "name": "Sky Way",
-    "price": "$6,200",
+    "price": "$2,200",
     "Location": "Gautam Nagar ,Noida ",
     "bed": 6,
     "bathroom": 3,
@@ -110,7 +110,7 @@
   {
     "id": "10",
     "name": "SilverWood",
-    "price": "$3,900",
+    "price": "$4,870",
     "Location": "Thane ,Mumbai",
     "bed": 5,
     "bathroom": 2,
@@ -122,7 +122,7 @@
   {
     "id": "11",
     "name": "VineWood",
-    "price": "$5,250",
+    "price": "$3,250",
     "Location": "Garden place ,Noida",
     "bed": 3,
     "bathroom": 2,
@@ -134,7 +134,7 @@
   {
     "id": "12",
     "name": "City Dwellers",
-    "price": "$6,600",
+    "price": "$3,600",
     "Location": "Lajpat ,Delhi",
     "bed": 4,
     "bathroom": 2,
@@ -146,7 +146,7 @@
   {
     "id": "13",
     "name": "Ashirwaad",
-    "price": "$5,360",
+    "price": "$3,360",
     "Location": "Palam ,Delhi",
     "bed": 4,
     "bathroom": 2,
@@ -158,7 +158,7 @@
   {
     "id": "14",
     "name": "Deluxe Villa",
-    "price": "$3,550",
+    "price": "$3,900",
     "Location": "Subroto ,Delhi",
     "bed": 7,
     "bathroom": 3,
@@ -170,7 +170,7 @@
   {
     "id": "15",
     "name": "The Granary",
-    "price": "$6,230",
+    "price": "$3,230",
     "Location": "Kashina ,Noida",
     "bed": 6,
     "bathroom": 3,
@@ -182,25 +182,25 @@
   {
     "id": "16",
     "name": "Lealands",
-    "price": "$5,100",
+    "price": "$3,100",
     "Location": "Nakshatr road ,Noida",
     "bed": 3,
     "bathroom": 1,
     "area": "6x7",
     "date": "13/12/2022",
-    "PropertyType": "Apartment",
+    "PropertyType": "House",
     "image": "https://res.cloudinary.com/apartmentlist/image/upload/f_auto,q_auto,t_web-base/ec511e2ebb2d866d1789a18602eef259.jpg"
   },
   {
     "id": "17",
     "name": "Ovderdale",
-    "price": "$3,550",
+    "price": "$4,110",
     "Location": "Juhu ,Mumbai",
     "bed": 5,
     "bathroom": 2,
     "area": "6x7",
     "date": "12/12/2022",
-    "PropertyType": "House",
+    "PropertyType": "Apartment",
     "image": "https://markstewart.com/wp-content/uploads/2021/04/1_SB4-Front-View.jpg"
   },
   {
@@ -218,19 +218,19 @@
   {
     "id": "19",
     "name": "Heather Bell",
-    "price": "$6,830",
+    "price": "$4,600",
     "Location": "Bandra ,Mumbai",
     "bed": 4,
     "bathroom": 2,
     "area": "6x7",
     "date": "10/12/2022",
-    "PropertyType": "Apartment",
+    "PropertyType": "Villa",
     "image": "https://www.irvinecompany.com/images/apartments-1-1080x720.webp"
   },
   {
     "id": "20",
     "name": "Oaklands",
-    "price": "$3,750",
+    "price": "$4,750",
     "Location": "Janpat ,Delhi",
     "bed": 6,
     "bathroom": 3,
@@ -248,7 +248,81 @@
     "bathroom": 2,
     "area": "6x7",
     "date": "8/12/2022",
-    "PropertyType": "House",
+    "PropertyType": "Villa",
     "image": "https://www.mcdonaldjoneshomes.com.au/sites/default/files/styles/image_gallery/public/daytona-new-house-designs.jpg?itok=Bb9xYGdE"
-  }
+  },
+  {
+    "id": "22",
+    "name": "VineWood",
+    "price": "$4,250",
+    "Location": "Khan place ,Noida",
+    "bed": 3,
+    "bathroom": 2,
+    "area": "6x7",
+    "date": "22/12/2022",
+    "PropertyType": "Apartment",
+    "image": "https://pix10.agoda.net/hotelImages/298/2987813/2987813_17101807450057913663.jpg?ca=6&ce=1&s=1024x768"
+  },
+  {
+    "id": "23",
+    "name": "Oaklands",
+    "price": "$4,750",
+    "Location": "INA ,Delhi",
+    "bed": 6,
+    "bathroom": 3,
+    "area": "6x7",
+    "date": "23/12/2022",
+    "PropertyType": "Villa",
+    "image": "https://www.casagrand.co.in/wp-content/uploads/2022/04/Villa-Front.jpg"
+  },
+  {
+    "id": "24",
+    "name": "Oaklands",
+    "price": "$4,750",
+    "Location": "Karolbagh ,Delhi",
+    "bed": 6,
+    "bathroom": 3,
+    "area": "6x7",
+    "date": "24/12/2022",
+    "PropertyType": "Apartment",
+    "image": "https://www.casagrand.co.in/wp-content/uploads/2022/04/Villa-Front.jpg"
+  },
+  {
+    "id": "25",
+    "name": "Ovderdale",
+    "price": "$3,950",
+    "Location": "Gateway ,Mumbai",
+    "bed": 5,
+    "bathroom": 2,
+    "area": "6x7",
+    "date": "25/12/2022",
+    "PropertyType": "House",
+    "image": "https://markstewart.com/wp-content/uploads/2021/04/1_SB4-Front-View.jpg"
+  },
+  {
+    "id": "26",
+    "name": "Ovderdale",
+    "price": "$3,800",
+    "Location": "Marinedrive ,Mumbai",
+    "bed": 5,
+    "bathroom": 2,
+    "area": "6x7",
+    "date": "26/12/2022",
+    "PropertyType": "Villa",
+    "image": "https://markstewart.com/wp-content/uploads/2021/04/1_SB4-Front-View.jpg"
+  },
+  {
+    "id": "27",
+    "name": "Ovderdale",
+    "price": "$3,330",
+    "Location": "Kanheri ,Mumbai",
+    "bed": 5,
+    "bathroom": 2,
+    "area": "6x7",
+    "date": "27/12/2022",
+    "PropertyType": "Apartment",
+    "image": "https://markstewart.com/wp-content/uploads/2021/04/1_SB4-Front-View.jpg"
+  },
+  
 ]
+
